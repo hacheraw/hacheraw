@@ -39,4 +39,14 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hacheraw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hacheraw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
+
+<br/>  
+
+
+### TODO:
+
+- [x] Hablar mínimamente de mí
+- [x] Diseñar mis propias badges porque nunca me convence ninguna
+- [ ] Recomendar gente y proyectos interesantes
