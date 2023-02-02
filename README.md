@@ -1,4 +1,8 @@
-### Hola! Soy Jorge, desarrollador full-stack, administrador de sistemas y lo que surja...
+<div align="right">
+<img src="https://hacheraw.github.io/hacheraw/img/JORGE.png" align="right" style="width: 100%" />
+</div>
+
+## Hola! Soy Jorge, desarrollador full-stack, administrador de sistemas y lo que surja...
   
 
 - 💻 Actualmente trabajo en [Conectatec](https://www.conectatec.com/)  
@@ -13,11 +17,11 @@
 ## Tecnologías que uso y me gustan  
 <div align="center">
 <img src="https://hacheraw.github.io/hacheraw/img/badges/PHP.png" alt="PHP" style="margin: 5px;" />
-<img src="https://hacheraw.github.io/hacheraw/img/badges/JAVASCRIPT.png" alt="Javascript" style="margin: 5px;" />
 <img src="https://hacheraw.github.io/hacheraw/img/badges/POSTCSS.png" alt="postcss" style="margin: 5px;" />
+<img src="https://hacheraw.github.io/hacheraw/img/badges/JAVASCRIPT.png" alt="Javascript" style="margin: 5px;" />
 <img src="https://hacheraw.github.io/hacheraw/img/badges/CAKEPHP.png" alt="CakePHP" style="margin: 5px;" />
-<img src="https://hacheraw.github.io/hacheraw/img/badges/SVELTE.png" alt="Svelte" style="margin: 5px;" />
 <img src="https://hacheraw.github.io/hacheraw/img/badges/VITE.png" alt="Vite" style="margin: 5px;" />
+<img src="https://hacheraw.github.io/hacheraw/img/badges/SVELTE.png" alt="Svelte" style="margin: 5px;" />
 <img src="https://hacheraw.github.io/hacheraw/img/badges/MINT.png" alt="Linux Mint" style="margin: 5px;" />
 <img src="https://hacheraw.github.io/hacheraw/img/badges/WINDOWS.png" alt="Windows" style="margin: 5px;" />
 <img src="https://hacheraw.github.io/hacheraw/img/badges/WSL.png" alt="WSL" style="margin: 5px;" />
@@ -35,11 +39,4 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hacheraw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>   
-
-
-<div align="right">
-<img src="https://hacheraw.github.io/hacheraw/img/JORGE.png" align="right" style="width: 100%" />
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hacheraw&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
