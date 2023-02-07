@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://hacheraw.github.io/hacheraw/img/JORGE.png" align="right" style="width: 100%" />
+<img src="https://hacheraw.github.io/hacheraw/img/JORGE.png?v20220207" align="right" style="width: 100%" />
 </div>
 
 ## Hola! Soy Jorge, desarrollador full-stack, administrador de sistemas y lo que surja...
