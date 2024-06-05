@@ -5,10 +5,7 @@
 ## Hola! Soy Jorge, desarrollador full-stack, administrador de sistemas y lo que surja...
   
 
-- 💻 Actualmente trabajo en [Conectatec](https://www.conectatec.com/)  
-  
-
-- 📖 Este año quiero mejorar en Javascript y Testing!  
+- 📖 Este año quiero mejorar en Laravel y Testing!  
   
 
 <br/>  
